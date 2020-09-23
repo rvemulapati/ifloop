@@ -1,5 +1,5 @@
-int1=$1
-int2=$2
+int1=$2
+int2=$3
 if [ $int1 -eq $int2 ]; then
 echo "values are equal"
 else
